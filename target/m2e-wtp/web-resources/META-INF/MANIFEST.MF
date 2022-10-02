@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ASUS
+Build-Jdk: 18.0.2
+Implementation-Title: baitapsql
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: Com.baitapsql
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
